@@ -1,1 +1,1 @@
-# sahab-multi-vendot-store
+# sahab-multi-vendor-store
